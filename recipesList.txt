@@ -1,0 +1,69 @@
+Italian:
+Pizza
+lasagna
+Ravioli
+Chicken Alfrado
+Air fryer Chicken Parmesan
+italian pasta casserole
+
+
+American:
+Burgers
+Hot dogs
+Rib-eye sandwiches
+Wings
+Tenders Made right Mac and cheese
+Sandwiches
+BBQ chicken Grilled
+Steak Potatoes and corn
+Grilled chicken and pork
+Grilled cheese and tomato soup
+Grilled Lemony Chicken
+Tuna and noodle
+chicken and rice casserole
+creamy chicken
+
+
+Mexican:
+Fajitas
+Tacos
+Quesadillas
+Enchiladas
+Stuffed Pepper
+nachos
+
+Asian:
+chicken teriyaki
+Orange Chicken
+Pineapple Chicken
+Mongolian beef
+Pepper Steak
+Lo mein with some meat
+Fried rice
+Butter chicken
+Tandoori Chicken
+
+Mediterranean food:
+Gyros with Tziki sauce
+sheesh kabob
+chicken over rice
+Kofta kabob
+
+Breakfast for dinner:
+Pancakes
+Biscuits and gravy with chicken
+German pancakes
+French Toast
+Crepes
+Breakfast casserole
+waffles
+
+Soup:
+Potatoes soup
+Tomatoes bisque
+Corn chowder
+White Chilli
+Chilli
+
+
+

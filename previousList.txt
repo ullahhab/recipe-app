@@ -1,0 +1,7 @@
+Monday:Chilli
+Tuesday:Enchiladas
+Wednesday:Orange Chicken
+Thursday:Breakfast casserole
+Friday:Gyros with Tziki sauce
+Saturday:Biscuits and gravy with chicken
+Sunday:chicken over rice
